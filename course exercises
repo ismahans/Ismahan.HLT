@@ -16,6 +16,8 @@ else:
 
 #week 3 Create a flowchart for a hotel booking system
 
+git fetch origin
+git checkout 1-hotel-booking-system-flowchart
 
 # program that requests user to to enter a number between 1-3 and then they will get a joke back depending on the number entered
 
